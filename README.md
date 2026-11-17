@@ -1,5 +1,4 @@
 # CIPHER
-# CIPHER – Interactive Mechanical Puzzle Box
 
 **CAD Software:** Onshape  
 **Project Category:** Mechanical Engineering / CAD Design  
